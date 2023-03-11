@@ -1,4 +1,4 @@
-module github.com/hakluke/dnstrace
+module github.com/SergejFrank/dnstrace
 
 go 1.16
 
